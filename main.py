@@ -81,7 +81,7 @@ class Window(QMainWindow):
 		push5.setGeometry(95, 200, 80, 40)
 
 		
-		push6 = QPushButton("5", self)
+		push6 = QPushButton("6", self)
 
 		
 		push6.setGeometry(185, 200, 80, 40)
