@@ -196,7 +196,7 @@ class Window(QMainWindow):
 
 		except:
 			
-			self.label.setText("Wrong Input")
+			self.label.setText("Неверный ввод")
 
 	def action_plus(self):
 		
